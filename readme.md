@@ -1,5 +1,5 @@
 
-# Simple Javascript Calculator
+# Javascript Calculator
 
  A simple calculator using HTML, CSS &amp; Javascript
 
