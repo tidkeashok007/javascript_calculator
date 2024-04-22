@@ -1,9 +1,8 @@
-
+ ![screenshot](readme.png)
 # Javascript Calculator
 
  A simple calculator using HTML, CSS &amp; Javascript
 
- ![screenshot](readme.png)
 
  This is a simple calculator functionality achieved using Javascript. The logic is very simple (you can also try it 😅) with the less lines of code possible .
  Feel free to check out the code and don't forget to star the repository.⭐
